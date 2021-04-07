@@ -1,2 +1,2 @@
 console.log("Hello World !!");
-console.log("Feature 2");
+console.log("amend commit");
